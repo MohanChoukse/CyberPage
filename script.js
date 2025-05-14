@@ -5,7 +5,10 @@ function locomotive() {
     el: document.querySelector("#main"),
     smooth: true ,
   });
-  locoScroll.on("scroll", ScrollTrigger.update);
+
+
+
+   locoScroll.on("scroll", ScrollTrigger.update);
 
   ScrollTrigger.scrollerProxy("#main", {
     scrollTop(value) {
