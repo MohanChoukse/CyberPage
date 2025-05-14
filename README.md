@@ -20,7 +20,7 @@ Just double-click the `index.html` file inside the `cyberpage/` folder.
 
 ## 📦 Deployment 
 
-- [Netlify](https://www.netlify.com/)
+- [CyberPage](https://mohanchoukse.github.io/CyberPage/)
 
 ---
 
